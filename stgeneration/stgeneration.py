@@ -29,7 +29,7 @@ def generate_normal_bernoulliASmean(
 
 
 if __name__ == '__main__':
-    maen = [0, 0]
+    mean = [0, 0]
     cov = [
         [1, 0],
         [0, 3]
