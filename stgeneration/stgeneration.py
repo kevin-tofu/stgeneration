@@ -2,8 +2,8 @@ import numpy as np
 from scipy import stats
 
 # define mean and covariance matrix of bivariate normal distribution
-mean = [0, 0]
-cov = [[1, 0.5], [0.5, 1]]
+# mean = [0, 0]
+# cov = [[1, 0.5], [0.5, 1]]
 
 # generate 1000 samples from the bivariate normal distribution
 def generate_normal(
